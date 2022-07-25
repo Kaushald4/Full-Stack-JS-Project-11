@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 11 [Live Link](#)
+## Project 11 [Live Link](https://live-proj-11.netlify.app)
 
 -   Skills Gained in this project
     -   Learned to create linear gradient border using **::before** pseudo element
